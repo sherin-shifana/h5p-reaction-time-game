@@ -1,0 +1,42 @@
+.main-container {
+  width: 100%;
+  padding: 5%;
+  margin-top:  2em;
+  background-size: contain;
+}
+.start-screen {
+  background-color: #008080;
+}
+
+.play-area {
+  background-color: #6699ff;
+}
+
+.start {
+  margin-left: 35%;
+  margin-top: 3em;
+  font-size: 2em;
+  color: white;
+}
+.button-circle {
+  height: 4em;
+  width: 4em;
+  border-radius: 50%;
+  background: white;
+  text-align: center;
+  padding: .1em;
+  margin-left: 40%;
+  margin-top: 1em;
+  cursor: pointer;
+}
+
+.button-circle i {
+  font-size: 3em;
+  margin-top: .1em;
+}
+
+h1 {
+  margin-left: 35%;
+  margin-top:5em;
+  color: white;
+}

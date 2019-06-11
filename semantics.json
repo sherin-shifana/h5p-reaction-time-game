@@ -1,0 +1,11 @@
+[
+  {
+    "label":"Task Description",
+    "name":"taskDescription",
+    "type":"text",
+    "maxLength": 100,
+    "default":"Click on the shape when it turns blue",
+    "description":"A guide telling the user how to solve this task.",
+    "importance":"high"
+  }
+]
