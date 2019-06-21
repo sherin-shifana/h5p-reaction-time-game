@@ -1,8 +1,9 @@
 .main-container {
   width: 100%;
-  padding: 5%;
+  padding-top: 5%;
   margin-top:  2em;
   background-size: contain;
+  text-align: center;
 }
 .start-screen {
   background-color: #008080;
@@ -13,7 +14,7 @@
 }
 
 .start {
-  margin-left: 35%;
+  /* margin-left: 35%; */
   margin-top: 3em;
   font-size: 2em;
   color: white;
@@ -25,7 +26,7 @@
   background: white;
   text-align: center;
   padding: .1em;
-  margin-left: 40%;
+  margin-left: 47%;
   margin-top: 1em;
   cursor: pointer;
 }
@@ -36,7 +37,10 @@
 }
 
 h1 {
-  margin-left: 35%;
+  /* margin-left: 35%; */
   margin-top:5em;
   color: white;
+}
+h2 {
+  cursor: pointer;
 }
